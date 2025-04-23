@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --font-plus-jakarta-sans: "Plus Jakarta Sans", sans-serif; 
+  --font-plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
+  --font-manrope:"Manrope",sans-serif;
+  --color-primary:#4475F2;
+  --color-secondary:#181E4B;
+  --color-ternary:#9A9EA6; 
 }
