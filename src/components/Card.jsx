@@ -1,9 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const Card = ({ cover }) => {
-    return (
-        <img src={cover} alt="" className="object-cover w-[278.46px] h-[392.36px]" />
-    )
-}
+    return <img src={cover} alt="" className="object-cover w-[278.46px] h-[392.36px]" />;
+};
 
-export default Card
+export default Card;
