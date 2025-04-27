@@ -1,4 +1,3 @@
-import React from 'react';
 import MenuReservasiCard from './MenuReservasiCard';
 
 const ImageReservasi = '/assets/images/reservasi.png';

@@ -3,16 +3,16 @@ import Card from './Card';
 
 const data = [
     {
-        cover: '../../public/assets/images/Raja ampat.png',
+        cover: '/assets/images/Raja ampat.png',
     },
     {
-        cover: '../../public/assets/images/Fanjingshan.png',
+        cover: '/assets/images/Fanjingshan.png',
     },
     {
-        cover: '../../public/assets/images/Vevey.png',
+        cover: '/assets/images/Vevey.png',
     },
     {
-        cover: '../../public/assets/images/Skadar.png',
+        cover: '/assets/images/Skadar.png',
     },
 ];
 
